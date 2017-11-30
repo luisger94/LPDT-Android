@@ -1,107 +1,107 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:2:1-24:12
+ADDED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:2:1-24:12
 	package
-		ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:3:5-45
-		INJECTED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml
+		ADDED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:5:5-22:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Nick\.android\build-cache\70887c142e4b5dbc9b502491cb1ac622545cb320\output\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:design:25.3.1] C:\Users\Nick\.android\build-cache\3566ce0e6cd8707ff33737444a67510f135c6b71\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Nick\.android\build-cache\03809aa35c5abfe944600732efddff6cf0f2f4ef\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Nick\.android\build-cache\2badcfe0a50366ea6114da4f49c1e3d664538fc2\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Nick\.android\build-cache\edf57c3a8ca50c0c60dc57aae950f468bb4c9d7a\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Nick\.android\build-cache\f955c5b9fc092016d9aa3a98ddf71e2cbd1deb40\output\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Nick\.android\build-cache\1320ac0b9eaee586b2e0eecfb7bf0bcedb066b79\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Nick\.android\build-cache\80bc1576f3fc53f687c146cc474c006de015aeb7\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Nick\.android\build-cache\a8eaf1f661e74296cae2b76c874d87b19ad8c5a9\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Nick\.android\build-cache\deb62bf43c458b0a9adae83ad04982c9c096903d\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Nick\.android\build-cache\3e812b1ff52688d08cb4738c006268e080fa67c4\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Nick\.android\build-cache\663a3bf909010b3b0c9bc443f5b43f97b97bb7dc\output\AndroidManifest.xml:29:5-20
+ADDED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Brad\.android\build-cache\705bc455f9794deef16e40435e76de8b2d1eb5ea\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Brad\.android\build-cache\07339677eb9926d23db189170ed980fb8f43485a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Brad\.android\build-cache\eb9ccaffb61054ec73db4f7781aee0401145ab3b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Brad\.android\build-cache\60aff6f1685991eca3d0683f07ef660b4502a6a8\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Brad\.android\build-cache\55a39afb302438ed000f4ead0d8c74c413a76053\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Brad\.android\build-cache\f010661a170f45a026d00ec517002f12342b0f81\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Brad\.android\build-cache\2a813168891329c4b7a1889e2b88f3c021ee49c5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Brad\.android\build-cache\7c8dd80162b4cdf17d22f82d559bdc4bf38b3db1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Brad\.android\build-cache\4919a038a6b15b179f9482a15453e5da75bee111\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Brad\.android\build-cache\c78b86b2dc78c224717ba3d03a3353d4137d9cc5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Brad\.android\build-cache\332aba5bd635449195136cc7726179a8dda94fca\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Brad\.android\build-cache\dda8ca517972b00b2076405c2cd92f2deb846f97\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:10:9-35
 	android:roundIcon
-		ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:9:9-54
 	android:allowBackup
-		ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:11:9-40
 activity#app.luisger.com.lapizarradeldt.MainActivity
-ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:12:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:16:27-74
 activity#app.luisger.com.lapizarradeldt.PaisesActivity
-ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:19:9-61
+ADDED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:19:9-61
 	android:name
-		ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:19:19-49
+		ADDED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:19:19-49
 activity#app.luisger.com.lapizarradeldt.NotasActivity
-ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:20:9-60
+ADDED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:20:9-60
 	android:name
-		ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:20:19-48
+		ADDED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:20:19-48
 activity#app.luisger.com.lapizarradeldt.AjustesActivity
-ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:21:9-62
+ADDED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:21:9-62
 	android:name
-		ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:21:19-50
+		ADDED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:21:19-50
 uses-sdk
-INJECTED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Nick\.android\build-cache\70887c142e4b5dbc9b502491cb1ac622545cb320\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:design:25.3.1] C:\Users\Nick\.android\build-cache\3566ce0e6cd8707ff33737444a67510f135c6b71\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Nick\.android\build-cache\03809aa35c5abfe944600732efddff6cf0f2f4ef\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Nick\.android\build-cache\2badcfe0a50366ea6114da4f49c1e3d664538fc2\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Nick\.android\build-cache\edf57c3a8ca50c0c60dc57aae950f468bb4c9d7a\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Nick\.android\build-cache\086daaafdea1f691bb07af51acf1209c9329d69d\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Nick\.android\build-cache\f955c5b9fc092016d9aa3a98ddf71e2cbd1deb40\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Nick\.android\build-cache\1320ac0b9eaee586b2e0eecfb7bf0bcedb066b79\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Nick\.android\build-cache\80bc1576f3fc53f687c146cc474c006de015aeb7\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Nick\.android\build-cache\a8eaf1f661e74296cae2b76c874d87b19ad8c5a9\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Nick\.android\build-cache\deb62bf43c458b0a9adae83ad04982c9c096903d\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Nick\.android\build-cache\3e812b1ff52688d08cb4738c006268e080fa67c4\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Nick\.android\build-cache\663a3bf909010b3b0c9bc443f5b43f97b97bb7dc\output\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Brad\.android\build-cache\705bc455f9794deef16e40435e76de8b2d1eb5ea\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Brad\.android\build-cache\07339677eb9926d23db189170ed980fb8f43485a\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Brad\.android\build-cache\eb9ccaffb61054ec73db4f7781aee0401145ab3b\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Brad\.android\build-cache\60aff6f1685991eca3d0683f07ef660b4502a6a8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Brad\.android\build-cache\55a39afb302438ed000f4ead0d8c74c413a76053\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Brad\.android\build-cache\ea437d8214bfd302230152cd44ef987786569507\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Brad\.android\build-cache\f010661a170f45a026d00ec517002f12342b0f81\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Brad\.android\build-cache\2a813168891329c4b7a1889e2b88f3c021ee49c5\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Brad\.android\build-cache\7c8dd80162b4cdf17d22f82d559bdc4bf38b3db1\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Brad\.android\build-cache\4919a038a6b15b179f9482a15453e5da75bee111\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Brad\.android\build-cache\c78b86b2dc78c224717ba3d03a3353d4137d9cc5\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Brad\.android\build-cache\332aba5bd635449195136cc7726179a8dda94fca\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Brad\.android\build-cache\dda8ca517972b00b2076405c2cd92f2deb846f97\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Nick\.android\build-cache\3566ce0e6cd8707ff33737444a67510f135c6b71\output\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Brad\.android\build-cache\07339677eb9926d23db189170ed980fb8f43485a\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Storage - Desktop\LPDT\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] C:\Users\Nick\.android\build-cache\3566ce0e6cd8707ff33737444a67510f135c6b71\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Nick\.android\build-cache\03809aa35c5abfe944600732efddff6cf0f2f4ef\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Nick\.android\build-cache\2badcfe0a50366ea6114da4f49c1e3d664538fc2\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Nick\.android\build-cache\edf57c3a8ca50c0c60dc57aae950f468bb4c9d7a\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Nick\.android\build-cache\086daaafdea1f691bb07af51acf1209c9329d69d\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] C:\Users\Nick\.android\build-cache\f955c5b9fc092016d9aa3a98ddf71e2cbd1deb40\output\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Nick\.android\build-cache\1320ac0b9eaee586b2e0eecfb7bf0bcedb066b79\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Nick\.android\build-cache\80bc1576f3fc53f687c146cc474c006de015aeb7\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Nick\.android\build-cache\a8eaf1f661e74296cae2b76c874d87b19ad8c5a9\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Nick\.android\build-cache\deb62bf43c458b0a9adae83ad04982c9c096903d\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Nick\.android\build-cache\3e812b1ff52688d08cb4738c006268e080fa67c4\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Nick\.android\build-cache\663a3bf909010b3b0c9bc443f5b43f97b97bb7dc\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:design:25.3.1] C:\Users\Brad\.android\build-cache\07339677eb9926d23db189170ed980fb8f43485a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Brad\.android\build-cache\eb9ccaffb61054ec73db4f7781aee0401145ab3b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Brad\.android\build-cache\60aff6f1685991eca3d0683f07ef660b4502a6a8\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Brad\.android\build-cache\55a39afb302438ed000f4ead0d8c74c413a76053\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Brad\.android\build-cache\ea437d8214bfd302230152cd44ef987786569507\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Brad\.android\build-cache\f010661a170f45a026d00ec517002f12342b0f81\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Brad\.android\build-cache\2a813168891329c4b7a1889e2b88f3c021ee49c5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Brad\.android\build-cache\7c8dd80162b4cdf17d22f82d559bdc4bf38b3db1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Brad\.android\build-cache\4919a038a6b15b179f9482a15453e5da75bee111\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Brad\.android\build-cache\c78b86b2dc78c224717ba3d03a3353d4137d9cc5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Brad\.android\build-cache\332aba5bd635449195136cc7726179a8dda94fca\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Brad\.android\build-cache\dda8ca517972b00b2076405c2cd92f2deb846f97\output\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Nick\.android\build-cache\3566ce0e6cd8707ff33737444a67510f135c6b71\output\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Brad\.android\build-cache\07339677eb9926d23db189170ed980fb8f43485a\output\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:design:25.3.1] C:\Users\Nick\.android\build-cache\3566ce0e6cd8707ff33737444a67510f135c6b71\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Brad\.android\build-cache\07339677eb9926d23db189170ed980fb8f43485a\output\AndroidManifest.xml:26:9-47

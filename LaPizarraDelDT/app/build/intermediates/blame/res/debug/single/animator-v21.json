@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\animator-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\07339677eb9926d23db189170ed980fb8f43485a\\output\\res\\animator-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\animator-v21\\design_appbar_state_list_animator.xml",
         "source": "C:\\Users\\Nick\\.android\\build-cache\\3566ce0e6cd8707ff33737444a67510f135c6b71\\output\\res\\animator-v21\\design_appbar_state_list_animator.xml"
     },

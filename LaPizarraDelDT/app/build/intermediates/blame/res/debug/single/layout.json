@@ -1,19 +1,39 @@
 [
     {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\paises_layout.xml",
-        "source": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\layout\\paises_layout.xml"
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\07339677eb9926d23db189170ed980fb8f43485a\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\07339677eb9926d23db189170ed980fb8f43485a\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\paiseslist.xml",
+        "source": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\layout\\paiseslist.xml"
     },
     {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\paises_layout.xml",
+        "source": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\layout\\paises_layout.xml"
+    },
+    {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
         "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
         "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
@@ -28,40 +48,76 @@
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
         "source": "C:\\Users\\Luisger94\\.android\\build-cache\\ff82a633d95f6efe491c739d59aaa857b3f991e6\\output\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
+        "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\07339677eb9926d23db189170ed980fb8f43485a\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\07339677eb9926d23db189170ed980fb8f43485a\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
         "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\07339677eb9926d23db189170ed980fb8f43485a\\output\\res\\layout\\design_layout_tab_text.xml"
     },
     {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
         "source": "C:\\Users\\Nick\\.android\\build-cache\\3566ce0e6cd8707ff33737444a67510f135c6b71\\output\\res\\layout\\design_layout_snackbar.xml"
     },
     {
-        "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\layout\\abc_screen_simple.xml"
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
         "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
+        "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
@@ -72,8 +128,16 @@
         "source": "C:\\Users\\Luisger94\\.android\\build-cache\\ff82a633d95f6efe491c739d59aaa857b3f991e6\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\07339677eb9926d23db189170ed980fb8f43485a\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\notification_template_icon_group.xml"
     },
     {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
@@ -84,8 +148,24 @@
         "source": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\src\\main\\res\\layout\\notas_layout.xml"
     },
     {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\07339677eb9926d23db189170ed980fb8f43485a\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
         "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
@@ -100,12 +180,24 @@
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
         "source": "C:\\Users\\Nick\\.android\\build-cache\\3566ce0e6cd8707ff33737444a67510f135c6b71\\output\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
         "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
@@ -116,6 +208,14 @@
         "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ajustes_layout.xml",
+        "source": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\layout\\ajustes_layout.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\07339677eb9926d23db189170ed980fb8f43485a\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
         "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
@@ -124,16 +224,24 @@
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "C:\\Users\\Luisger94\\.android\\build-cache\\ff82a633d95f6efe491c739d59aaa857b3f991e6\\output\\res\\layout\\design_navigation_item.xml"
-    },
-    {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
+        "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Luisger94\\.android\\build-cache\\ff82a633d95f6efe491c739d59aaa857b3f991e6\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
         "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
@@ -144,8 +252,16 @@
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
         "source": "C:\\Users\\Luisger94\\.android\\build-cache\\ff82a633d95f6efe491c739d59aaa857b3f991e6\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
@@ -166,6 +282,18 @@
     {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
         "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\07339677eb9926d23db189170ed980fb8f43485a\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recientes.xml",
+        "source": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\layout\\recientes.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
@@ -200,6 +328,10 @@
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
@@ -216,12 +348,28 @@
         "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\07339677eb9926d23db189170ed980fb8f43485a\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
         "source": "C:\\Users\\Nick\\.android\\build-cache\\3566ce0e6cd8707ff33737444a67510f135c6b71\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\07339677eb9926d23db189170ed980fb8f43485a\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\notification_template_part_time.xml"
     },
     {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
@@ -232,12 +380,20 @@
         "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
     },
     {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
         "source": "C:\\Users\\Luisger94\\.android\\build-cache\\ff82a633d95f6efe491c739d59aaa857b3f991e6\\output\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
         "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\07339677eb9926d23db189170ed980fb8f43485a\\output\\res\\layout\\design_navigation_item.xml"
     },
     {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
@@ -272,6 +428,10 @@
         "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\layout\\notification_template_media_custom.xml"
     },
     {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\populares.xml",
+        "source": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\layout\\populares.xml"
+    },
+    {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\paiseslist.xml",
         "source": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\layout\\paiseslist.xml"
     },
@@ -288,6 +448,14 @@
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\07339677eb9926d23db189170ed980fb8f43485a\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
@@ -298,6 +466,10 @@
     {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
         "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
@@ -324,6 +496,10 @@
         "source": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\layout\\notas_layout.xml"
     },
     {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
         "source": "C:\\Users\\Nick\\.android\\build-cache\\3566ce0e6cd8707ff33737444a67510f135c6b71\\output\\res\\layout\\design_navigation_menu.xml"
     },
@@ -336,8 +512,20 @@
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
@@ -372,12 +560,28 @@
         "source": "C:\\Users\\Nick\\.android\\build-cache\\3566ce0e6cd8707ff33737444a67510f135c6b71\\output\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
@@ -398,6 +602,10 @@
     {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
         "source": "C:\\Users\\Nick\\.android\\build-cache\\3566ce0e6cd8707ff33737444a67510f135c6b71\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notas_layout.xml",
+        "source": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\layout\\notas_layout.xml"
     },
     {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
@@ -428,8 +636,20 @@
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\paises_layout.xml",
+        "source": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\layout\\paises_layout.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recientes.xml",
         "source": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\layout\\recientes.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\07339677eb9926d23db189170ed980fb8f43485a\\output\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
@@ -456,6 +676,14 @@
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
@@ -478,5 +706,17 @@
     {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     }
 ]

@@ -4,16 +4,12 @@
         "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\Nick\\.android\\build-cache\\3566ce0e6cd8707ff33737444a67510f135c6b71\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
         "source": "C:\\Users\\Luisger94\\.android\\build-cache\\ff82a633d95f6efe491c739d59aaa857b3f991e6\\output\\res\\anim\\design_snackbar_out.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
@@ -24,24 +20,92 @@
         "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\Nick\\.android\\build-cache\\3566ce0e6cd8707ff33737444a67510f135c6b71\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "C:\\Users\\Nick\\.android\\build-cache\\3566ce0e6cd8707ff33737444a67510f135c6b71\\output\\res\\anim\\design_fab_in.xml"
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Nick\\.android\\build-cache\\3566ce0e6cd8707ff33737444a67510f135c6b71\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
     },
     {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
+        "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Luisger94\\.android\\build-cache\\ff82a633d95f6efe491c739d59aaa857b3f991e6\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\07339677eb9926d23db189170ed980fb8f43485a\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Luisger94\\.android\\build-cache\\ff82a633d95f6efe491c739d59aaa857b3f991e6\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\07339677eb9926d23db189170ed980fb8f43485a\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Nick\\.android\\build-cache\\3566ce0e6cd8707ff33737444a67510f135c6b71\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Nick\\.android\\build-cache\\3566ce0e6cd8707ff33737444a67510f135c6b71\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "C:\\Users\\Luisger94\\.android\\build-cache\\ff82a633d95f6efe491c739d59aaa857b3f991e6\\output\\res\\anim\\design_fab_out.xml"
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\07339677eb9926d23db189170ed980fb8f43485a\\output\\res\\anim\\design_fab_out.xml"
     },
     {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
@@ -52,12 +116,12 @@
         "source": "C:\\Users\\Nick\\.android\\build-cache\\3566ce0e6cd8707ff33737444a67510f135c6b71\\output\\res\\anim\\design_fab_out.xml"
     },
     {
-        "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
@@ -68,8 +132,16 @@
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
         "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\07339677eb9926d23db189170ed980fb8f43485a\\output\\res\\anim\\design_snackbar_in.xml"
     },
     {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
@@ -84,28 +156,20 @@
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\anim\\abc_popup_enter.xml"
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\07339677eb9926d23db189170ed980fb8f43485a\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\anim\\abc_fade_out.xml"
-    },
-    {
-        "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\Luisger94\\.android\\build-cache\\ff82a633d95f6efe491c739d59aaa857b3f991e6\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
@@ -116,8 +180,8 @@
         "source": "C:\\Users\\Nick\\.android\\build-cache\\3566ce0e6cd8707ff33737444a67510f135c6b71\\output\\res\\anim\\design_snackbar_out.xml"
     },
     {
-        "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\anim\\abc_fade_out.xml"
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\07339677eb9926d23db189170ed980fb8f43485a\\output\\res\\anim\\design_snackbar_out.xml"
     },
     {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",

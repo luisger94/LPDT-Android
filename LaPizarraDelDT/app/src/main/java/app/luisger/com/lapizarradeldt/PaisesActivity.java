@@ -17,7 +17,7 @@ public class PaisesActivity extends AppCompatActivity {
 
     ListView list;
     String[] itemname={
-            "Argentina",
+            "ARG",
             "Estados Unidos",
             "Paraguay",
             "VzLA"
