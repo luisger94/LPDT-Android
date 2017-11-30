@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Luisger94\\.android\\build-cache\\a531f8c5f4255e2ae5b0be9a1cc1629dff8d2f9e\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]
