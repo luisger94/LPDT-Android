@@ -16,9 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".PaisesActivity"></activity>
-        <activity android:name=".NotasActivity"></activity>
-        <activity android:name=".AjustesActivity"></activity>
+        <activity android:name=".PaisesActivity" />
+        <activity android:name=".NotasActivity" />
+        <activity android:name=".AjustesActivity" />
+        <activity android:name=".webActivity"></activity>
     </application>
 
 </manifest>
