@@ -1,7 +1,7 @@
-#Sat Aug 05 17:13:47 EDT 2017
-base.0=C\:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fcfc484bac767af79c575781389cb86e7149af4c
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6e76dd37a51337aa2ddb17f75bcabeac449c189d\\classes.dex
-base.1=C\:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6e76dd37a51337aa2ddb17f75bcabeac449c189d
-file.0=C\:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fcfc484bac767af79c575781389cb86e7149af4c\\classes.dex
+#Thu Nov 30 17:49:30 EST 2017
+base.0=C\:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8de1074f5a0f06ea038059a01f60bb4f214a5b69
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7555aec69d8b4caacfa23c2b0d323e71babddaba\\classes.dex
+base.1=C\:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_7555aec69d8b4caacfa23c2b0d323e71babddaba
+file.0=C\:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8de1074f5a0f06ea038059a01f60bb4f214a5b69\\classes.dex

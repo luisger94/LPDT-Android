@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="app.luisger.com.lapizarradeldt">
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
 
     <application
         android:allowBackup="true"
@@ -19,7 +20,7 @@
         <activity android:name=".PaisesActivity" />
         <activity android:name=".NotasActivity" />
         <activity android:name=".AjustesActivity" />
-        <activity android:name=".webActivity"></activity>
+        <activity android:name=".webActivity" />
     </application>
 
 </manifest>

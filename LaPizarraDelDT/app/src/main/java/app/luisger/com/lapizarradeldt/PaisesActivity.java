@@ -7,7 +7,10 @@ import android.support.design.widget.BottomNavigationView;
 import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.AdapterView;
 import android.widget.ListView;
+import android.widget.Toast;
 
 /**
  * Created by Luisger94 on 8/4/2017.
@@ -40,7 +43,27 @@ public class PaisesActivity extends AppCompatActivity {
         PaisesListAdapter adapter = new PaisesListAdapter(this, itemname, imgid);
         list = (ListView) findViewById(R.id.paisesList);
         list.setAdapter(adapter);
+        list.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                //String input = "https://google.com";
 
+                if (position == 0)
+                {
+                    Intent intent4 = new Intent(PaisesActivity.this, webActivity.class);
+                    intent4.putExtra("input", "https://www.lapizarradeldt.com/search/label/Argentina");
+                    startActivity(intent4);
+                }
+                if (position == 1)
+                {
+                    Intent intent4 = new Intent(PaisesActivity.this, webActivity.class);
+                    intent4.putExtra("input", "https://yahoo.com");
+                    startActivity(intent4);
+                }
+
+
+            }
+        });
 
 
 
