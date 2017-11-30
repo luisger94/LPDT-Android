@@ -20,7 +20,7 @@ public class PaisesActivity extends AppCompatActivity {
             "Argentina",
             "Estados Unidos",
             "Paraguay",
-            "Venezuela"
+            "VzLA"
     };
 
     Integer[] imgid={
