@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:2:1-24:12
+ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:2:1-25:12
 	package
 		ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:3:5-45
 		INJECTED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android
 		INJECTED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:5:5-22:19
+ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:5:5-23:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Nick\.android\build-cache\70887c142e4b5dbc9b502491cb1ac622545cb320\output\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:25.3.1] C:\Users\Nick\.android\build-cache\3566ce0e6cd8707ff33737444a67510f135c6b71\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Nick\.android\build-cache\03809aa35c5abfe944600732efddff6cf0f2f4ef\output\AndroidManifest.xml:29:5-20
@@ -54,17 +54,21 @@ ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android
 	android:name
 		ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:16:27-74
 activity#app.luisger.com.lapizarradeldt.PaisesActivity
-ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:19:9-61
+ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:19:9-52
 	android:name
 		ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:19:19-49
 activity#app.luisger.com.lapizarradeldt.NotasActivity
-ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:20:9-60
+ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:20:9-51
 	android:name
 		ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:20:19-48
 activity#app.luisger.com.lapizarradeldt.AjustesActivity
-ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:21:9-62
+ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:21:9-53
 	android:name
 		ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:21:19-50
+activity#app.luisger.com.lapizarradeldt.webActivity
+ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:22:9-58
+	android:name
+		ADDED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml:22:19-46
 uses-sdk
 INJECTED from C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Nick\.android\build-cache\70887c142e4b5dbc9b502491cb1ac622545cb320\output\AndroidManifest.xml:5:5-7:41

@@ -29,6 +29,7 @@
         <activity android:name="app.luisger.com.lapizarradeldt.PaisesActivity" />
         <activity android:name="app.luisger.com.lapizarradeldt.NotasActivity" />
         <activity android:name="app.luisger.com.lapizarradeldt.AjustesActivity" />
+        <activity android:name="app.luisger.com.lapizarradeldt.webActivity" />
     </application>
 
 </manifest>
