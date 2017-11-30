@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
         "merged": "C:\\Users\\Luisger94\\AndroidStudioProjects\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
         "source": "C:\\Users\\Luisger94\\.android\\build-cache\\39fdd42521a581dc796673435d7cf6fce898c37b\\output\\res\\layout-v16\\notification_template_custom_big.xml"
     }
