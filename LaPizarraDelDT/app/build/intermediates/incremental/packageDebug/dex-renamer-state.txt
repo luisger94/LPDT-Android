@@ -1,4 +1,4 @@
-#Thu Nov 30 17:49:30 EST 2017
+#Fri Dec 01 19:15:36 EST 2017
 base.0=C\:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8de1074f5a0f06ea038059a01f60bb4f214a5b69
 renamed.1=classes2.dex
 renamed.0=classes.dex

@@ -3187,10 +3187,10 @@ containing a value of this type.
         public static final int fixed=0x7f0d0046;
         public static final int home=0x7f0d0004;
         public static final int homeAsUp=0x7f0d001c;
-        public static final int ic_ajustes=0x7f0d00af;
-        public static final int ic_home=0x7f0d00ac;
-        public static final int ic_notas=0x7f0d00ae;
-        public static final int ic_paises=0x7f0d00ad;
+        public static final int ic_ajustes=0x7f0d00b1;
+        public static final int ic_home=0x7f0d00ae;
+        public static final int ic_notas=0x7f0d00b0;
+        public static final int ic_paises=0x7f0d00af;
         public static final int icon=0x7f0d0050;
         public static final int icon_group=0x7f0d00a0;
         public static final int ifRoom=0x7f0d0043;
@@ -3204,7 +3204,7 @@ containing a value of this type.
         public static final int line3=0x7f0d00a3;
         public static final int listMode=0x7f0d0018;
         public static final int list_item=0x7f0d004f;
-        public static final int masked=0x7f0d00ab;
+        public static final int masked=0x7f0d00ad;
         public static final int media_actions=0x7f0d0095;
         public static final int middle=0x7f0d0040;
         public static final int mini=0x7f0d003e;
@@ -3274,7 +3274,7 @@ containing a value of this type.
         public static final int text2=0x7f0d00a2;
         public static final int textSpacerNoButtons=0x7f0d0059;
         public static final int textSpacerNoTitle=0x7f0d0058;
-        public static final int textView2=0x7f0d00a9;
+        public static final int textView2=0x7f0d00aa;
         public static final int textView3=0x7f0d00a8;
         public static final int text_input_password_toggle=0x7f0d008d;
         public static final int textinput_counter=0x7f0d0009;
@@ -3291,8 +3291,10 @@ containing a value of this type.
         public static final int up=0x7f0d000d;
         public static final int useLogo=0x7f0d0020;
         public static final int view_offset_helper=0x7f0d000e;
-        public static final int visible=0x7f0d00aa;
+        public static final int visible=0x7f0d00ac;
         public static final int webView=0x7f0d0080;
+        public static final int webViewPopular=0x7f0d00a9;
+        public static final int webViewRecent=0x7f0d00ab;
         public static final int withText=0x7f0d0045;
         public static final int wrap=0x7f0d0011;
         public static final int wrap_content=0x7f0d002c;

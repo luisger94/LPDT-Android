@@ -57,7 +57,19 @@ public class PaisesActivity extends AppCompatActivity {
                 if (position == 1)
                 {
                     Intent intent4 = new Intent(PaisesActivity.this, webActivity.class);
-                    intent4.putExtra("input", "https://yahoo.com");
+                    intent4.putExtra("input", "https://www.lapizarradeldt.com/search?q=United+States");
+                    startActivity(intent4);
+                }
+                if (position == 2)
+                {
+                    Intent intent4 = new Intent(PaisesActivity.this, webActivity.class);
+                    intent4.putExtra("input", "http://www.lapizarradeldt.com/search/label/Paraguay");
+                    startActivity(intent4);
+                }
+                if (position == 3)
+                {
+                    Intent intent4 = new Intent(PaisesActivity.this, webActivity.class);
+                    intent4.putExtra("input", "http://www.lapizarradeldt.com/search/label/Venezuela");
                     startActivity(intent4);
                 }
 
