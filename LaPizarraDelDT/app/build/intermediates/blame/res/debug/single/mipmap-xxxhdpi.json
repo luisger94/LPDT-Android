@@ -1,5 +1,13 @@
 [
     {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
         "source": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },

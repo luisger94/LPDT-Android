@@ -1,5 +1,29 @@
 [
     {
+        "outputFile": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Brad\\.android\\build-cache\\8d0b45e6b7dc80b86e4c4246c33c0a46b69d6605\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {

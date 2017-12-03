@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_app\LPDT-Android\LaPizarraDelDT\app\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\Storage - Desktop\LPDT\LPDT-Android\LPDT-Android\LaPizarraDelDT\app\src\main\shaders"/></dataSet><dataSet config="debug"><source path="D:\Storage - Desktop\LPDT\LPDT-Android\LPDT-Android\LaPizarraDelDT\app\src\debug\shaders"/></dataSet></merger>

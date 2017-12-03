@@ -20,18 +20,34 @@ public class PaisesActivity extends AppCompatActivity {
 
     ListView list;
     String[] itemname={
-            "ARG",
+            "Argentina",
+            "Bolivia",
+            "Brasil",
+            "Chile",
+            "Columbia",
+            "Ecuador",
             "Estados Unidos",
+            "Mexico",
             "Paraguay",
+            "Peru",
+            "Uruguay",
             "Venezuela"
     };
 
     Integer[] imgid={
 
             R.drawable.argentina,
+            R.drawable.bolivia,
+            R.drawable.brasil,
+            R.drawable.chile,
+            R.drawable.colombia,
+            R.drawable.ecuador,
             R.drawable.estadosunidos,
+            R.drawable.mexico,
             R.drawable.paraguay,
-            R.drawable.venezuela,
+            R.drawable.peru,
+            R.drawable.uruguay,
+            R.drawable.venezuela
 
     };
 
@@ -57,16 +73,64 @@ public class PaisesActivity extends AppCompatActivity {
                 if (position == 1)
                 {
                     Intent intent4 = new Intent(PaisesActivity.this, webActivity.class);
-                    intent4.putExtra("input", "https://www.lapizarradeldt.com/search?q=United+States");
+                    intent4.putExtra("input", "https://www.lapizarradeldt.com/search/label/Bolivia");
                     startActivity(intent4);
                 }
                 if (position == 2)
                 {
                     Intent intent4 = new Intent(PaisesActivity.this, webActivity.class);
-                    intent4.putExtra("input", "http://www.lapizarradeldt.com/search/label/Paraguay");
+                    intent4.putExtra("input", "https://www.lapizarradeldt.com/search/label/Brasil");
                     startActivity(intent4);
                 }
                 if (position == 3)
+                {
+                    Intent intent4 = new Intent(PaisesActivity.this, webActivity.class);
+                    intent4.putExtra("input", "https://www.lapizarradeldt.com/search/label/Chile");
+                    startActivity(intent4);
+                }
+                if (position == 4)
+                {
+                    Intent intent4 = new Intent(PaisesActivity.this, webActivity.class);
+                    intent4.putExtra("input", "https://www.lapizarradeldt.com/search/label/Colombia");
+                    startActivity(intent4);
+                }
+                if (position == 5)
+                {
+                    Intent intent4 = new Intent(PaisesActivity.this, webActivity.class);
+                    intent4.putExtra("input", "https://www.lapizarradeldt.com/search/label/Ecuador");
+                    startActivity(intent4);
+                }
+                if (position == 6)
+                {
+                    Intent intent4 = new Intent(PaisesActivity.this, webActivity.class);
+                    intent4.putExtra("input", "https://www.lapizarradeldt.com/search?q=United+States");
+                    startActivity(intent4);
+                }
+                if (position == 7)
+                {
+                    Intent intent4 = new Intent(PaisesActivity.this, webActivity.class);
+                    intent4.putExtra("input", "http://www.lapizarradeldt.com/search/label/M%C3%A9xico");
+                    startActivity(intent4);
+                }
+                if (position == 8)
+                {
+                    Intent intent4 = new Intent(PaisesActivity.this, webActivity.class);
+                    intent4.putExtra("input", "http://www.lapizarradeldt.com/search/label/Paraguay");
+                    startActivity(intent4);
+                }
+                if (position == 9)
+                {
+                    Intent intent4 = new Intent(PaisesActivity.this, webActivity.class);
+                    intent4.putExtra("input", "http://www.lapizarradeldt.com/search/label/Per%C3%BA");
+                    startActivity(intent4);
+                }
+                if (position == 10)
+                {
+                    Intent intent4 = new Intent(PaisesActivity.this, webActivity.class);
+                    intent4.putExtra("input", "http://www.lapizarradeldt.com/search/label/Uruguay");
+                    startActivity(intent4);
+                }
+                if (position == 11)
                 {
                     Intent intent4 = new Intent(PaisesActivity.this, webActivity.class);
                     intent4.putExtra("input", "http://www.lapizarradeldt.com/search/label/Venezuela");

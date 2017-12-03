@@ -4,10 +4,6 @@
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_btn_check_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
@@ -16,12 +12,28 @@
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\chile.png",
+        "source": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\drawable\\chile.png"
+    },
+    {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ecuador.png",
+        "source": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\drawable\\ecuador.png"
     },
     {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
@@ -32,44 +44,60 @@
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\notification_bg_low.xml"
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bolivia.png",
+        "source": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\drawable\\bolivia.png"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\brasil.png",
+        "source": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\drawable\\brasil.png"
     },
     {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\paraguay.png",
         "source": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\drawable\\paraguay.png"
     },
     {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\notification_bg.xml"
     },
     {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\venezuela.png",
-        "source": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\drawable\\venezuela.png"
-    },
-    {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\estadosunidos.png",
+        "source": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\drawable\\estadosunidos.png"
+    },
+    {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\colombia.png",
+        "source": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\drawable\\colombia.png"
     },
     {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
@@ -80,8 +108,8 @@
         "source": "C:\\Users\\Nick\\.android\\build-cache\\3566ce0e6cd8707ff33737444a67510f135c6b71\\output\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
@@ -92,8 +120,8 @@
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
-        "source": "C:\\Users\\Nick\\.android\\build-cache\\3566ce0e6cd8707ff33737444a67510f135c6b71\\output\\res\\drawable\\design_password_eye.xml"
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
@@ -108,12 +136,220 @@
         "source": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\drawable\\grey_border_bottom.xml"
     },
     {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mexico.png",
+        "source": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\drawable\\mexico.png"
+    },
+    {
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\estadosunidos.png",
+        "source": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\drawable\\estadosunidos.png"
+    },
+    {
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Nick\\.android\\build-cache\\3566ce0e6cd8707ff33737444a67510f135c6b71\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\07339677eb9926d23db189170ed980fb8f43485a\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\07339677eb9926d23db189170ed980fb8f43485a\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\venezuela.png",
+        "source": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\drawable\\venezuela.png"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\07339677eb9926d23db189170ed980fb8f43485a\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\uruguay.png",
+        "source": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\drawable\\uruguay.png"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\07339677eb9926d23db189170ed980fb8f43485a\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\peru.png",
+        "source": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\drawable\\peru.png"
+    },
+    {
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\venezuela.png",
+        "source": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\drawable\\venezuela.png"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\grey_border_bottom.xml",
+        "source": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\drawable\\grey_border_bottom.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\grey_border_top.xml",
+        "source": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\drawable\\grey_border_top.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\07339677eb9926d23db189170ed980fb8f43485a\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\argentina.png",
+        "source": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\drawable\\argentina.png"
+    },
+    {
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\Nick\\.android\\build-cache\\3566ce0e6cd8707ff33737444a67510f135c6b71\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
         "source": "C:\\Users\\Nick\\.android\\build-cache\\3566ce0e6cd8707ff33737444a67510f135c6b71\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
@@ -124,8 +360,8 @@
         "source": "C:\\Users\\Nick\\.android\\build-cache\\3566ce0e6cd8707ff33737444a67510f135c6b71\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\notification_tile_bg.xml"
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
@@ -148,51 +384,43 @@
         "source": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\drawable\\argentina.png"
     },
     {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\estadosunidos.png",
-        "source": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\drawable\\estadosunidos.png"
-    },
-    {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_dialog_material_background.xml"
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\paraguay.png",
+        "source": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\drawable\\paraguay.png"
     },
     {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\grey_border_top.xml",
         "source": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\src\\main\\res\\drawable\\grey_border_top.xml"
     },
     {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
         "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
         "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "C:\\Users\\Nick\\.android\\build-cache\\3566ce0e6cd8707ff33737444a67510f135c6b71\\output\\res\\drawable\\navigation_empty_icon.xml"
-    },
-    {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_ic_search_api_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\Nick\\.android\\build-cache\\03809aa35c5abfe944600732efddff6cf0f2f4ef\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Brad\\.android\\build-cache\\eb9ccaffb61054ec73db4f7781aee0401145ab3b\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     }
 ]
