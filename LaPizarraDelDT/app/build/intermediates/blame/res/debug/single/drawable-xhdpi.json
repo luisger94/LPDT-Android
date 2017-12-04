@@ -1,34 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_content.png",
-        "source": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_content.png"
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_Final\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_settings_black_24dp.png",
+        "source": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_Final\\LPDT-Android\\LaPizarraDelDT\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_settings_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_settings_black_24dp.png",
-        "source": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_settings_black_24dp.png"
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_Final\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_content.png",
+        "source": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_Final\\LPDT-Android\\LaPizarraDelDT\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_content.png"
     },
     {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_home.png",
-        "source": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home.png"
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_Final\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_language.png",
+        "source": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_Final\\LPDT-Android\\LaPizarraDelDT\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_language.png"
     },
     {
-        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_content.png",
-        "source": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_content.png"
-    },
-    {
-        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_language.png",
-        "source": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_app\\LPDT-Android\\LaPizarraDelDT\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_language.png"
-    },
-    {
-        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_home.png",
-        "source": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home.png"
-    },
-    {
-        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_language.png",
-        "source": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_language.png"
-    },
-    {
-        "merged": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_settings_black_24dp.png",
-        "source": "D:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_settings_black_24dp.png"
+        "merged": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_Final\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_home.png",
+        "source": "C:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_Final\\LPDT-Android\\LaPizarraDelDT\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home.png"
     }
 ]

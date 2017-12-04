@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="D:\Storage - Desktop\LPDT\LPDT-Android\LPDT-Android\LaPizarraDelDT\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="980850b410fddee44ea7d48dc134b66257cab487">
-        <dex dex="D:\Storage - Desktop\LPDT\LPDT-Android\LPDT-Android\LaPizarraDelDT\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9d7073a3ba3b83b3d64f9033ab841e92ccbed599\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Storage - Desktop\LPDT\LPDT-Android\LPDT-Android\LaPizarraDelDT\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_Final\LPDT-Android\LaPizarraDelDT\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="D:\Storage - Desktop\LPDT\LPDT-Android\LPDT-Android\LaPizarraDelDT\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9e9c7758759c151a0eabd12d83e0dff2bed8b449\classes.dex" />
+        <dex dex="C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_Final\LPDT-Android\LaPizarraDelDT\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_58e94f718334c0524d59712056011b87b278f4b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_Final\LPDT-Android\LaPizarraDelDT\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9af91994e8907dd1cd855d3d4ac394f5dce6a6f">
+        <dex dex="C:\Users\Nick\Documents\uofl_fall_2017\CECS_550\LPDT_Final\LPDT-Android\LaPizarraDelDT\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fc5bed3ef3b76f9d2c21625e8b27b2741eefc19b\classes.dex" />
     </item>
 
 </items>

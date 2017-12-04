@@ -1,4 +1,7 @@
-#Sun Dec 03 12:49:02 EST 2017
-base.0=D\:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Mon Dec 04 14:22:29 EST 2017
+base.0=C\:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_Final\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fc5bed3ef3b76f9d2c21625e8b27b2741eefc19b
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=D\:\\Storage - Desktop\\LPDT\\LPDT-Android\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.1=C\:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_Final\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_58e94f718334c0524d59712056011b87b278f4b9\\classes.dex
+base.1=C\:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_Final\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_58e94f718334c0524d59712056011b87b278f4b9
+file.0=C\:\\Users\\Nick\\Documents\\uofl_fall_2017\\CECS_550\\LPDT_Final\\LPDT-Android\\LaPizarraDelDT\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fc5bed3ef3b76f9d2c21625e8b27b2741eefc19b\\classes.dex
